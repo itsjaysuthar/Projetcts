@@ -1,0 +1,7 @@
+data.dropna()
+plt.figure(figsize=(10, 4))
+plt.title("DogeCoin Price INR")
+plt.xlabel("Date")
+plt.ylabel("Close")
+plt.plot(data["Close"])
+plt.show()
