@@ -1,1 +1,0 @@
-# ISL - Recognition for Static and Dynamic Gestures
