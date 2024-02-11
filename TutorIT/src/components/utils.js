@@ -1,0 +1,1 @@
+export const getLoginDetails = () => JSON.parse(localStorage.getItem("User")) ? JSON.parse(localStorage.getItem("User"))[0] : {} 

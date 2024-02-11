@@ -1,0 +1,30 @@
+body {
+  background-color: #faf9f6;
+}
+nav {
+  padding: 3%;
+  font-weight: 700;
+}
+#i2 {
+  width: 70px;
+}
+.c1{
+  text-align: center;
+}
+.c2{
+  color: #007bff;
+}
+.c3{
+  color: #663300;
+}
+#companyName {
+  /*position: absolute;*/
+  font-weight: 700;
+  padding-top:  10px;
+  font-size: 1.1em;
+}
+.navbar {
+  padding-top: 0;
+  padding-bottom: 0;
+  background-color: #faf9f6;
+}

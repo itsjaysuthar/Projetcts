@@ -1,0 +1,175 @@
+[
+    {
+        "_id": 1,
+        "name": "Prof. Dr. John Cole",
+        "about": "I'm a Professor of Instruction in the Computer Science Department here at the University of Texas at Dallas. I taught part-time at Collin County Community College for three years, and prior to that, at Illinois Institute of Technology in the mid-1970s, which is also where I earned my degrees.",
+        "image": "https://i0.wp.com/cs.utdallas.edu/wp-content/uploads/2021/12/John-Cole-f-2021-scaled.jpg?fit=750%2C750&ssl=1",
+        "rating": "5.0/5.0",
+        "expertise": [
+            "Human-Computer Interactions",
+            "Computer Architecture"
+        ],
+        "email": "John.Cole@utdallas.edu",
+        "Availability": [
+            {
+                "_id": 1,
+                "Date": "2022-02-04",
+                "Start_time": "12:00 PM",
+                "End_time": "03:00 PM",
+                "Is_available": "True"
+            }
+        ]
+    },
+    {
+        "_id": 2,
+        "name": "Prof. Dr. Sanda Harabagiu",
+        "about": "My research interests include Natural Language Processing, Information Retrieval, Knowledge Processing, Artificial Intelligence and more recently Medical Informatics. I have been interested for a long time in Textual Question-Answering, reference resolution and textual cohesion and coherence.",
+        "image": "https://i0.wp.com/cs.utdallas.edu/wp-content/uploads/2019/04/Harabagiu_Sanda_-2.jpg?fit=750%2C750&ssl=1",
+        "rating": "5.0/5.0",
+        "expertise": [
+            "Artificial Intelligence",
+            "Information Retrieval",
+            "Natural Language Processing"
+        ],
+        "email": "sanda@utdallas.edu",
+        "Availability": [
+            {
+                "_id": 1,
+                "Date": "2022-02-04",
+                "Start_time": "12:00 PM",
+                "End_time": "03:00 PM",
+                "Is_available": "True"
+            }
+        ]
+    },
+    {
+        "_id": 3,
+        "name": "Prof. Dr. Ravi Prakash",
+        "about": "I am a professor in the Department of Computer Science and the Collegium V Honors College at the University of Texas at Dallas. My research interests include Field-of-View prediction and caching for 360-degree videos, coexistence of wireless networks (including WiFi networks) in unlicensed and shared frequency bands, sensor networking, mobile computing and distributed algorithms.",
+        "image": "https://i0.wp.com/cs.utdallas.edu/wp-content/uploads/2015/02/Prakash_Ravi_1.jpg?fit=750%2C750",
+        "rating": "5.0/5.0",
+        "expertise": [
+            "Mobile Computing Systems",
+            "Advanced Operating Systems",
+            "Algorithm Analysis and Data Structures"
+        ],
+        "email": "ravip@utdallas.edu",
+        "Availability": [
+            {
+                "_id": 1,
+                "Date": "2022-02-04",
+                "Start_time": "12:00 PM",
+                "End_time": "03:00 PM",
+                "Is_available": "True"
+            }
+        ]
+    },
+    {
+        "_id": 4,
+        "name": "Prof. Dr. Jason P. Jue",
+        "about": "I am conducting research that focuses on the design and analysis of next-generation optical network architectures and protocols, including work on control and management in optical networks, protocols for multi-domain optical networks, and methods for providing survivability in optical networks.",
+        "image": "https://i0.wp.com/cs.utdallas.edu/wp-content/uploads/2015/02/Jue_Jason.jpg?fit=750%2C750",
+        "rating": "5.0/5.0",
+        "expertise": [
+            "Computer Networks",
+            "Performance of Computer Systems and Networks"
+        ],
+        "email": "jjue@utdallas.edu",
+        "Availability": [
+            {
+                "_id": 1,
+                "Date": "2022-02-04",
+                "Start_time": "12:00 PM",
+                "End_time": "03:00 PM",
+                "Is_available": "True"
+            }
+        ]
+    },
+    {
+        "_id": 5,
+        "name": "Prof. Dr. Nurcan Yuruk",
+        "about": "I am an Associate Professor in the Department of Computer Science at University of Texas at Dallas. My research interests primarily focus on Knowledge Discovery and Data Mining and Social Network Analysis ",
+        "image": "https://i0.wp.com/cs.utdallas.edu/wp-content/uploads/2020/07/Nurcan-Yuruk-july-29-2020-1.png?fit=750%2C750&ssl=1",
+        "rating": "5.0/5.0",
+        "expertise": [
+            "Database Design",
+            "Web Programming Languages"
+        ],
+        "email": "Nurcan.Yuruk@utdallas.edu",
+        "Availability": [
+            {
+                "_id": 1,
+                "Date": "2022-02-04",
+                "Start_time": "12:00 PM",
+                "End_time": "03:00 PM",
+                "Is_available": "False"
+            }
+        ]
+    },
+    {
+        "_id": 6,
+        "name": "Prof. Dr. Anurag Nagar",
+        "about": "I am an Assistant Professor in the Department of Computer Science at the University of Texas at Dallas. My research interests primarily focus on Machine Learning, Bioinformatics and Financial Data Mining ",
+        "image": "https://i0.wp.com/cs.utdallas.edu/wp-content/uploads/2018/11/nagar-anurag-2-fall-2018-.jpg?fit=750%2C750&ssl=1",
+        "rating": "5.0/5.0",
+        "expertise": [
+            "Machine Learning",
+            "Bioinformatics",
+            "Financial Data Mining"
+        ],
+        "email": "Anurag.Nagar@utdallas.edu",
+        "Availability": [
+            {
+                "_id": 1,
+                "Date": "2022-02-04",
+                "Start_time": "12:00 PM",
+                "End_time": "03:00 PM",
+                "Is_available": "False"
+            }
+        ]
+    },
+    {
+        "_id": 7,
+        "name": "Prof. Dr. Anjum Chida",
+        "about": "I am an Associate Professor in the Department of Computer Science at University of Texas at Dallas. My research interests primarily focus on Machine Learning, Bioinformatics and Computational Biology ",
+        "image": "https://i0.wp.com/cs.utdallas.edu/wp-content/uploads/2019/08/ANJUM-CHIDA-SUMMER-2019.jpg?fit=750%2C750&ssl=1",
+        "rating": "5.0/5.0",
+        "expertise": [
+            "Machine Learning",
+            "Bioinformatics",
+            "Computational Biology"
+        ],
+        "email": "anjum.chida@utdallas.edu",
+        "Availability": [
+            {
+                "_id": 1,
+                "Date": "2022-02-04",
+                "Start_time": "12:00 PM",
+                "End_time": "03:00 PM",
+                "Is_available": "True"
+            }
+        ]
+    },
+    {
+        "_id": 8,
+        "name": "Prof. Dr. Yu Xiang",
+        "about": "I am an Assistant Professor in the Department of Computer Science at the University of Texas at Dallas.My research interests primarily focus on robotics and computer vision. I am interested in studying how can an intelligent system or a robot understand its 3D environment from sensing and accomplish tasks in the real world, which is a very challenging and unsolved problem.",
+        "image": "https://i0.wp.com/cs.utdallas.edu/wp-content/uploads/2021/10/Yu-Xiang-oct-2021.jpg?fit=750%2C750&ssl=1",
+        "rating": "5.0/5.0",
+        "expertise": [
+            "Robotics",
+            "Computer Vision",
+            "Machine Learning"
+        ],
+        "email": "yu.xiang@utdallas.edu",
+        "Availability": [
+            {
+                "_id": 1,
+                "Date": "2022-02-04",
+                "Start_time": "12:00 PM",
+                "End_time": "03:00 PM",
+                "Is_available": "True"
+            }
+        ]
+    }
+]

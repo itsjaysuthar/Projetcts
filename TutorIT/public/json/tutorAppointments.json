@@ -1,0 +1,44 @@
+[
+    {
+        "_id": 2
+        ,"courseCode": "CS6375"
+        ,"userId": 2021433291
+        ,"userName": "Manav Shah"
+        ,"tutorId": 4
+        ,"tutorName": "Anjum Chida"
+        ,"appointmentLocation":"ECSW4.101"
+        ,"appointmentDate": "01/01/2022"
+        ,"appointmentTime": "4:30PM CDT"
+        ,"appointmentDuration": "1 hour"
+        ,"isBooked": false
+        ,"isCompleted":false
+    }
+    ,{
+        "_id": 3
+        ,"courseCode": "CS6360"
+        ,"userId": 2021433293
+        ,"userName": "fenil Shah"
+        ,"tutorId": 3
+        ,"tutorName": "Dr. Rishabh Iyer"
+        ,"appointmentLocation":"ECSS 2.404"
+        ,"appointmentDate": "07/01/2022"
+        ,"appointmentTime": "1:30PM CDT"
+        ,"appointmentDuration": "1 hour"
+        ,"isBooked": false
+        ,"isCompleted":true
+    }
+    ,{
+        "_id": 4
+        ,"courseCode": "CS6360"
+        ,"userId": 2021433294
+        ,"userName": "Parth Shah"
+        ,"tutorId": 5
+        ,"tutorName": "Greg Ozbirn"
+        ,"appointmentLocation":"MS Teams"
+        ,"appointmentDate": "05/01/2022"
+        ,"appointmentTime": "1:30PM CDT"
+        ,"appointmentDuration": "1 hour"
+        ,"isBooked": false
+        ,"isCompleted":true
+    }
+]

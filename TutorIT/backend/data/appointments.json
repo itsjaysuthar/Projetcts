@@ -1,0 +1,46 @@
+[
+    {
+        "_id": 1
+        ,"courseCode": "CS6360"
+        ,"userIdNo": 2021433290
+        ,"tutorIdNo": 5
+        ,"appointmentDate": "05/01/2022"
+        ,"appointmentMode": "Remote"
+        ,"appointmentLocation":"MS Teams"
+        ,"appointmentTime": "1:30PM CDT"
+        ,"appointmentDuration": "1 hour"
+    }
+    ,{
+        "_id": 2
+        ,"courseCode": "CS6375"
+        ,"userIdNo": 2021440290 
+        ,"tutorIdNo": 7
+        ,"appointmentDate": "05/02/2022"
+        ,"appointmentMode": "In person"
+        ,"appointmentLocation":"ECOM 4.105"
+        ,"appointmentTime": "2:00PM CDT"
+        ,"appointmentDuration": "1 hour"
+    }
+    ,{
+        "_id": 3
+        ,"courseCode": "CS6366"
+        ,"userIdNo": 2021445670
+        ,"tutorIdNo": 2
+        ,"appointmentMode": "Remote"
+        ,"appointmentLocation":"Google Hangouts"
+        ,"appointmentDate": "05/03/2022"
+        ,"appointmentTime": "3:00PM CDT"
+        ,"appointmentDuration": "1 hour"
+    }
+    ,{
+        "_id": 4
+        ,"courseCode": "CS6355"
+        ,"userIdNo": 2021445666
+        ,"tutorIdNo": 5
+        ,"appointmentMode": "In Person"
+        ,"appointmentLocation":"ECSS 4.204"
+        ,"appointmentDate": "05/02/2022"
+        ,"appointmentTime": "4:00PM CDT"
+        ,"appointmentDuration": "1 hour"
+    }
+]

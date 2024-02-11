@@ -1,0 +1,215 @@
+[
+    {
+        "_id": 0,
+        "name": "Prof. Nurcan Yuruk",
+        "image": "https://i0.wp.com/cs.utdallas.edu/wp-content/uploads/2020/07/Nurcan-Yuruk-july-29-2020-1.png?fit=750%2C750&ssl=1",
+        "rating": 5,
+        "email": "nurcan.yuruk@utdallas.edu",
+        "position": "Associate Professor Of Instruction",
+        "degrees": [
+            "Ph.D., Applied Science, University of Arkansas at Little Rock, 2008",
+            "B.S., Computer Science, Dokuz Eylul University, Turkey, 2001"
+        ],
+        "subject_of_expertise": [
+            "Database Design - CS 6360",
+            "Web Programming Languages - CS 6314"
+        ],
+        "available_hours": [
+            {
+                "_id": 1,
+                "courseCode": "CS6360 Database Design",
+                "Date": "2022-02-04",
+                "Start_time": "10:00 AM",
+                "End_time": "12:00 PM",
+                "Is_available": "True"
+            },
+            {
+                "_id": 2,
+                "courseCode": "CS6314 Web Programming Languages",
+                "Date": "2022-02-05",
+                "Start_time": "10:00 AM",
+                "End_time": "12:00 PM",
+                "Is_available": "True"
+            }
+        ]
+    },
+    {
+        "_id": 1,
+        "name": "Prof. Anjum Chida",
+        "image": "https://i0.wp.com/cs.utdallas.edu/wp-content/uploads/2019/08/ANJUM-CHIDA-SUMMER-2019.jpg?fit=750%2C750&ssl=1",
+        "rating": 5,
+        "email": "anjum.chida@utdallas.edu",
+        "position": "Associate Professor Of Instruction",
+        "degrees": [
+            "Ph.D., Computer Science, Georgia State University, 2012",
+            "M.S., Computer Science, Georgia State University, 2007",
+            "Bachelor of Computer Engineering, University of Madras, India"
+        ],
+        "subject_of_expertise": [
+            "Machine Learning - CS 6375",
+            "Web Programming Languages - CS 6314"
+        ],
+        "available_hours": [
+            {
+                "_id": 1,
+                "Date": "2022-02-06",
+                "Start_time": "2:00 PM",
+                "End_time": "4:00 PM",
+                "Is_available": "True"
+            }
+        ]
+    },
+    {
+        "_id": 2,
+        "name": "Prof. Rishabh iyer",
+        "image": "https://i0.wp.com/cs.utdallas.edu/wp-content/uploads/2019/09/Rishabh-Iyer.png?fit=750%2C750&ssl=1",
+        "rating": 4,
+        "email": "Rishabh.Iyer@UTDallas.edu",
+        "position": "Assistant Professor",
+        "degrees": [
+            "Post-Doctoral Researcher, University of Washington, 2016",
+            "h.D. in Computer Science, University of Washington, Seattle, 2015"
+        ],
+        "subject_of_expertise": [
+            "Machine Learning - CS 6375",
+            "Optimization in Machine Learning - CS 6354"
+        ],
+        "available_hours": [
+            {
+                "_id": 1,
+                "Date": "2022-02-01",
+                "Start_time": "1:00 PM",
+                "End_time": "3:00 PM",
+                "Is_available": "True"
+            }
+        ]
+    },
+    {
+        "_id": 3,
+        "name": "Prof. Jorge Arturo Cobb",
+        "image": "https://i0.wp.com/cs.utdallas.edu/wp-content/uploads/2015/02/Cobb_Jorge.jpg?fit=750%2C750",
+        "rating": 3,
+        "email": "cobb@utdallas.edu",
+        "position": "Director of Graduate Studies",
+        "degrees": [
+            "Ph.D., The University of Texas at Austin, Austin, TX",
+            "M.A., The University of Texas at Austin, Austin, TX",
+            "B.S., The University of Texas at El Paso, El Paso, TX"
+        ],
+        "subject_of_expertise": [
+            "Discrete Structures - CS 5333",
+            "Computer Networks - CS 6390"
+        ],
+        "available_hours": [
+            {
+                "_id": 1,
+                "Date": "2022-02-12",
+                "Start_time": "10:00 AM",
+                "End_time": "12:00 PM",
+                "Is_available": "True"
+            }
+        ]
+    },
+    {
+        "_id": 4,
+        "name": "Prof. Greg Ozbirn",
+        "image": "https://i0.wp.com/cs.utdallas.edu/wp-content/uploads/2015/02/Ozbirn_Greg.jpg?fit=750%2C750",
+        "rating": 5,
+        "email": "Greg.Ozbirn@utdallas.edu",
+        "position": "Professor Of Instruction",
+        "degrees": [
+            "M.S., Computer Science, Southern Methodist University, 2000",
+            "B.S., Computer Science, Harding University, 1987"
+        ],
+        "subject_of_expertise": [
+            "Data Structures - CS 5343",
+            "Design and Analysis of Algorithms - CS 6363"
+        ],
+        "available_hours": [
+            {
+                "_id": 1,
+                "Date": "2022-02-04",
+                "Start_time": "6:00 PM",
+                "End_time": "8:00 PM",
+                "Is_available": "True"
+            }
+        ]
+    },
+    {
+        "_id": 5,
+        "name": "Prof. Anurag Nagar",
+        "image": "https://i0.wp.com/cs.utdallas.edu/wp-content/uploads/2018/11/nagar-anurag-2-fall-2018-.jpg?fit=750%2C750&ssl=1",
+        "rating": 5,
+        "email": "Anurag.Nagar@utdallas.edu",
+        "position": "Assistant Professor Of Instruction",
+        "degrees": [
+            "Ph.D., Computer Science, Southern Methodist University"
+            
+        ],
+        "subject_of_expertise": [
+            "Machine Learning - CS 6375",
+            "Advanced Machine Learning - CS 6378"
+        ],
+        "available_hours": [
+            {
+                "_id": 1,
+                "Date": "2022-02-08",
+                "Start_time": "9:00 AM",
+                "End_time": "11:00 AM",
+                "Is_available": "True"
+            }
+        ]
+    },
+    {
+        "_id": 6,
+        "name": "Prof. Dr. Chris Davis",
+        "image": "https://i0.wp.com/cs.utdallas.edu/wp-content/uploads/2015/02/Davis_Chris.jpg?fit=750%2C750",
+        "rating": 5,
+        "email": " chrisirwindavis@utdallas.edu",
+        "position": "Associate Professor Of Instruction",
+        "degrees": [
+            "Ph.D., Computer Science, The University of Texas at Dallas, 2011",
+            "M.S., Computer Science, The University of Texas at Dallas, 2009",
+            "B.S., Computer Science, The University of Texas at Dallas, 2005"
+        ],
+        "subject_of_expertise": [
+            "Organization of Programming Languages - CS 4337",
+            "Automata Theory - CS 4384",
+            "Database Design - CS 6360"
+        ],
+        "available_hours": [
+            {
+                "_id": 1,
+                "Date": "2022-02-04",
+                "Start_time": "1:45 AM",
+                "End_time": "2:45 PM",
+                "Is_available": "True"
+            }
+        ]
+    },
+    {
+        "_id": 7,
+        "name": "Prof. Dr. Bhadrachalam Chitturi",
+        "image": "https://i0.wp.com/cs.utdallas.edu/wp-content/uploads/2019/08/thumbnail_Bhadrachalam-Chitturi-Aug-2019-.jpg?fit=750%2C750&ssl=1",
+        "rating": 4,
+        "email": "chalam@utdallas.edu",
+        "position": "Associate Professor Of Instruction",
+        "degrees": [
+            "Ph.D. in Computer Science, University of Texas at Dallas",
+            "M.S. in C.S., University of North Texas, Denton"
+        ],
+        "subject_of_expertise": [
+            "Database Design - CS 6360",
+            "Web Programming Languages - CS 6314"
+        ],
+        "available_hours": [
+            {
+                "_id": 1,
+                "Date": "2022-02-04",
+                "Start_time": "10:00 AM",
+                "End_time": "12:00 PM",
+                "Is_available": "True"
+            }
+        ]
+    }
+]
